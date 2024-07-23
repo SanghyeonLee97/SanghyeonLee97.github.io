@@ -3,13 +3,13 @@ layout: single
 title:  "[Python] 자료형 - 숫자형"
 toc: true
 toc_sticky: true
-toc_label: "MYSELF"
+toc_label: "Table of Contents"
 ---
 
 # 파이썬 숫자형 자료형
 파이썬에서 숫자형 자료형은 크게 세 가지로 나뉩니다. 파이썬에서 숫자형 자료형은 크게 세 가지로 나뉩니다: 정수형, 실수형, 복소수형. 이 문서에서는 각 자료형에 대한 간단한 설명과 예제를 다룹니다.
 
-## 1. 정수형 (Integer)
+# 1. 정수형 (Integer)
 정수형은 소수점이 없는 숫자입니다. 파이썬에서는 **int** 타입으로 사용됩니다.
 <hr>
 

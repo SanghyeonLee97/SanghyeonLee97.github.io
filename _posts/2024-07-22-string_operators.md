@@ -3,7 +3,7 @@ layout: single
 title:  "[Python] 자료형 - 문자열"
 toc: true
 toc_sticky: true
-toc_label: "MYSELF"
+toc_label: "Table of Contents"
 ---
 
 # 파이썬 문자열
@@ -108,12 +108,12 @@ print(message[::2])  # 출력: Hlo ol!
 
 `%` 포매팅을 사용하여 문자열을 포매팅할 수 있습니다. 다음은 다양한 포맷 코드와 그 의미입니다:
 
-| 코드 | 의미                       | 예제                                    | 출력                            |
-|------|----------------------------|-----------------------------------------|---------------------------------|
-| %s   | 문자열                     | `"Hello %s" % "World"`                  | `Hello World`                   |
-| %d   | 정수                       | `"I have %d apples" % 5`                | `I have 5 apples`               |
-| %f   | 부동 소수점                | `"PI is approximately %f" % 3.14`       | `PI is approximately 3.140000`  |
-| %.2f | 소수점 2자리 부동 소수점   | `"PI is approximately %.2f" % 3.14`     | `PI is approximately 3.14`      |
+| 코드   | 의미                       | 예제                                    | 출력                            |
+|--------|----------------------------|-----------------------------------------|---------------------------------|
+| %s     | 문자열                     | `"Hello %s" % "World"`                  | `Hello World`                   |
+| %d     | 정수                       | `"I have %d apples" % 5`                | `I have 5 apples`               |
+| %f     | 부동 소수점                | `"PI is approximately %f" % 3.14`       | `PI is approximately 3.140000`  |
+| %.2f   | 소수점 2자리 부동 소수점   | `"PI is approximately %.2f" % 3.14`     | `PI is approximately 3.14`      |
 
 
 ```python
