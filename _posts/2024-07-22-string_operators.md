@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "[Python] 자료형 - 문자열"
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
 ---
 
 # 파이썬 문자열

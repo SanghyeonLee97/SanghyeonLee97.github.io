@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "[Python] 자료형 - 숫자형"
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
 ---
 
 # 파이썬 숫자형 자료형
