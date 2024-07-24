@@ -1,13 +1,16 @@
 ---
 layout: single
 title:  "[Python] 자료형 - 딕셔너리"
+categories: 
+    - python-datatypes
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 comments: true
+author_profile: false
 ---
 
-# 딕셔너리 자료형
+
 
 딕셔너리(Dictionary)는 키(key)와 값(value)의 쌍을 저장하는데 사용되는 자료형입니다. 중괄호 `{}` 를 사용하여 정의하며, 키와 값은 콜론 `:` 으로 구분합니다. 키는 유일하며, 변경 불가능한 데이터 타입이어야 합니다.
 <br><br>

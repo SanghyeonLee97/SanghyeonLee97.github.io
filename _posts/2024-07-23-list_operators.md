@@ -1,13 +1,16 @@
 ---
 layout: single
 title:  "[Python] 자료형 - 리스트"
+categories: 
+    - python-datatypes
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 comments: true
+author_profile: false
 ---
 
-# 리스트 자료형
+
 
 리스트는 파이썬에서 가장 많이 사용되는 자료형 중 하나로, 여러 개의 값을 하나의 변수에 저장할 수 있는 자료형입니다. 리스트는 대괄호 `[]` 로 감싸서 정의하며, 다양한 연산과 메서드를 통해 쉽게 조작할 수 있습니다.
 

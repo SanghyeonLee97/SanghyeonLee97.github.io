@@ -10,3 +10,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: PROGRAMMING
+    children:
+      - title: "[Python] 자료형"
+        url: "/python-datatypes"
+        category: "python-datatypes"

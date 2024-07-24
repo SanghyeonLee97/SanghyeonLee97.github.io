@@ -1,13 +1,16 @@
 ---
 layout: single
 title:  "[Python] 자료형 - 튜플"
+categories: 
+    - python-datatypes
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 comments: true
+author_profile: false
 ---
 
-# 튜플 자료형
+
 
 튜플은 파이썬에서 여러 개의 값을 하나의 변수에 저장할 수 있는 자료형으로, 리스트와 비슷하지만, **수정할 수 없는(immutable)** 자료형입니다.
 

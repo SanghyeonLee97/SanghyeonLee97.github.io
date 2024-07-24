@@ -1,13 +1,16 @@
 ---
 layout: single
 title:  "[Python] 자료형 - 문자열"
+categories: 
+    - python-datatypes
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 comments: true
+author_profile: false
 ---
 
-# 문자열 자료형
+
 파이썬에서 문자열은 문자들의 집합으로, 작은따옴표(')나 큰따옴표(')를 사용하여 생성할 수 있습니다. 문자열을 사용하는 다양한 방법을 알아봅시다.
 
 ## 1. 문자열 생성 및 사용

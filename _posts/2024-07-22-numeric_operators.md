@@ -1,13 +1,16 @@
 ---
 layout: single
 title:  "[Python] 자료형 - 숫자형"
+categories: 
+    - python-datatypes
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 comments: true
+author_profile: false
 ---
 
-# 숫자형 자료형
+
 파이썬에서 숫자형 자료형은 크게 세 가지로 나뉩니다. 파이썬에서 숫자형 자료형은 크게 세 가지로 나뉩니다: 정수형, 실수형, 복소수형. 이 문서에서는 각 자료형에 대한 간단한 설명과 예제를 다룹니다.
 
 # 1. 정수형 (Integer)
