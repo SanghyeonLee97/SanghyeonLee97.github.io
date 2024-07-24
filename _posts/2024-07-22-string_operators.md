@@ -3,12 +3,13 @@ layout: single
 title:  "[Python] 자료형 - 문자열"
 categories: 
     - python-datatypes
+author_profile: false
+sidebar: false
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 comments: true
-author_profile: false
-sidebar: false
+
 ---
 
 
