@@ -4,6 +4,7 @@ title:  "[Python] 자료형 - 문자열"
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
+comments: true
 ---
 
 # 문자열 자료형

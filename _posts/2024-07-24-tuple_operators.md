@@ -4,6 +4,7 @@ title:  "[Python] 자료형 - 튜플"
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
+comments: true
 ---
 
 # 튜플 자료형

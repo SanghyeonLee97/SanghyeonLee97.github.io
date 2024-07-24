@@ -4,6 +4,7 @@ title:  "[Python] 자료형 - 숫자형"
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
+comments: true
 ---
 
 # 숫자형 자료형
