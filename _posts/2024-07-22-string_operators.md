@@ -8,6 +8,7 @@ toc_sticky: true
 toc_label: "Table of Contents"
 comments: true
 author_profile: false
+sidebar: false
 ---
 
 
