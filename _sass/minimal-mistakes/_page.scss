@@ -527,11 +527,13 @@ body {
 
   @include breakpoint($large) {
     float: inline-end;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    width: calc(100%);
+    // width: calc(100% - #{$right-sidebar-width-narrow}); 원본
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    width: calc(100%);
+    // width: calc(100% - #{$right-sidebar-width}); 원본
   }
 
   a {
