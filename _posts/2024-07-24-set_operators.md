@@ -3,13 +3,11 @@ layout: single
 title:  "[Python] 자료형 - 집합"
 categories: 
     - python-datatypes
-author_profile: false
 sidebar: false
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 comments: true
-
 ---
 
 집합(Set)은 **중복을 허용하지 않고, 순서가 없는 데이터 타입**입니다. 집합은 수학에서의 집합과 같은 특성을 가지며, 중괄호 `{}` 를 사용하여 정의합니다.

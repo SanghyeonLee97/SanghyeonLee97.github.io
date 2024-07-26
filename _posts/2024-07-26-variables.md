@@ -3,7 +3,6 @@ layout: single
 title:  "[Python] 변수(Variables)"
 categories: 
     - python-datatypes
-author_profile: false
 sidebar: false
 toc: true
 toc_sticky: true
