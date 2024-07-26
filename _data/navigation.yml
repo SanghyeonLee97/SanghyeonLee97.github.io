@@ -17,3 +17,6 @@ sidebar-category:
       - title: "[Python] 자료형"
         url: "/python-datatypes"
         category: "python-datatypes"
+      - title: "[Python] 제어문"
+        url: "/python-cs"
+        category: "python-cs"
