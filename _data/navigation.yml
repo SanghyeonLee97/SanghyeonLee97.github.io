@@ -20,3 +20,6 @@ sidebar-category:
       - title: "[Python] 제어문"
         url: "/python-cs"
         category: "python-cs"
+      - title: "[Python] 입출력"
+        url: "/python-io"
+        category: "python-io"
