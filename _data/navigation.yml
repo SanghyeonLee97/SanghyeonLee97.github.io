@@ -23,3 +23,6 @@ sidebar-category:
       - title: "[Python] 입출력"
         url: "/python-io"
         category: "python-io"
+      - title: "[Python] 핵심 개념"
+        url: "/python-essentials"
+        category: "python-essentials"
