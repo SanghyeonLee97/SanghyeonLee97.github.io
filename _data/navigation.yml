@@ -26,3 +26,6 @@ sidebar-category:
       - title: "[Python] 핵심 개념"
         url: "/python-essentials"
         category: "python-essentials"
+      - title: "[Python] DataFrame"
+        url: "/python-dataframe"
+        category: "python-dataframe"
