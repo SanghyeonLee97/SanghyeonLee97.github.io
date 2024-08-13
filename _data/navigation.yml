@@ -29,3 +29,6 @@ sidebar-category:
       - title: "[Python] DataFrame"
         url: "/python-dataframe"
         category: "python-dataframe"
+      - title: "[Elastic Search] CRUD"
+        url: "/es-crud"
+        category: "es-crud"
